@@ -1,0 +1,32 @@
+.title {
+    text-align: center;
+    color: #ff4757;
+    padding-top: 1.5rem;
+}
+
+.title:hover {
+    color: #fff;
+}
+
+.linkCard {
+    text-decoration: none;
+}
+
+.description {
+    text-align: center;
+    color: #fff;
+}
+
+.card-img-top {
+    transition: all 0.5s ease-in-out;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+}
+
+.card-img-top:hover {
+    transform: scale(1.2);
+}
+
+.overflow {
+    overflow: hidden;
+}

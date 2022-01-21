@@ -1,0 +1,19 @@
+.name {
+    text-align: center;
+    color: #ff4757;
+}
+
+.info {
+    text-align: justify;
+    margin: 3rem;
+    color: #fff;
+}
+
+.contact {
+    margin: 3rem;
+    text-align: center;
+}
+
+h2 {
+    color: #fff;
+}
